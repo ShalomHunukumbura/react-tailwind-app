@@ -9,7 +9,7 @@ import Footer from './components/Footer'
 const App = () => {
   return (
     <div className='h-full'>
-      <Navbar/>
+      <Navbar/> 
       <Hero/>
       <Analytics/>
       <Newsletter/>
